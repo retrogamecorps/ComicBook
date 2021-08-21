@@ -1,6 +1,7 @@
-## Big Cody - 320x240 SimpleMenu Theme
+## ComicBook - 640x480 SimpleMenu Theme
 
-Based on https://github.com/CodyV59/es-theme-epic-cody-RG351V
+Based on https://github.com/TMNTturtleguy/es-theme-ComicBook_4-3
+Some assets borrowed from fgl82's Big Cody theme https://github.com/fgl82/BigCody
 
 ---
 
