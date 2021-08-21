@@ -1,7 +1,7 @@
 ## ComicBook - 640x480 SimpleMenu Theme
 
 Based on https://github.com/TMNTturtleguy/es-theme-ComicBook_4-3
-Some assets borrowed from fgl82's Big Cody theme https://github.com/fgl82/BigCody
+<br>Some assets borrowed from fgl82's Big Cody theme https://github.com/fgl82/BigCody
 
 ---
 
